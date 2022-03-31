@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013/07/29 15:36:59.155.cpp,D:\Proyectos\Banco_Pichincha\Extractos_Consolidados\programa\Archivo_Email1.cpp=D:\Proyectos\Banco_Pichincha\Crediflash\programa\Archivo_Email1.cpp</Transaction>
+    <Transaction>2013/07/29 15:36:59.155.h,D:\Proyectos\Banco_Pichincha\Extractos_Consolidados\programa\Archivo_Email1.h=D:\Proyectos\Banco_Pichincha\Crediflash\programa\Archivo_Email1.h</Transaction>
+    <Transaction>2013/07/29 15:36:59.155.dfm,D:\Proyectos\Banco_Pichincha\Extractos_Consolidados\programa\Archivo_Email1.dfm=D:\Proyectos\Banco_Pichincha\Crediflash\programa\Archivo_Email1.dfm</Transaction>
+    <Transaction>2013/07/29 15:37:08.418.cbproj,D:\Proyectos\Banco_Pichincha\Extractos_Consolidados\programa\Archivo_Email.cbproj=D:\Proyectos\Banco_Pichincha\Crediflash\programa\Archivo_Email.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

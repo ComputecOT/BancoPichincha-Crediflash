@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013/07/17 09:56:59.494.cpp,D:\Proyectos\Banco_Pichincha\Extractos_Consolidados\programa\Banco_Pichincha_Consol_1.cpp=D:\Proyectos\Banco_Pichincha\Crediflash\programa\Banco_Pichincha_Crediflash_1.cpp</Transaction>
+    <Transaction>2013/07/17 09:56:59.514.h,D:\Proyectos\Banco_Pichincha\Extractos_Consolidados\programa\Banco_Pichincha_Consol_1.h=D:\Proyectos\Banco_Pichincha\Crediflash\programa\Banco_Pichincha_Crediflash_1.h</Transaction>
+    <Transaction>2013/07/17 09:56:59.514.dfm,D:\Proyectos\Banco_Pichincha\Extractos_Consolidados\programa\Banco_Pichincha_Consol_1.dfm=D:\Proyectos\Banco_Pichincha\Crediflash\programa\Banco_Pichincha_Crediflash_1.dfm</Transaction>
+    <Transaction>2013/07/17 09:57:18.431.cbproj,D:\Proyectos\Banco_Pichincha\Extractos_Consolidados\programa\Banco_Pichincha_Consol.cbproj=D:\Proyectos\Banco_Pichincha\Crediflash\programa\Banco_Pichincha_Crediflash.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

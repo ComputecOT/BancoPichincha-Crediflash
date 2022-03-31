@@ -1,0 +1,7 @@
+*.ops
+*.hip
+*.xml
+*.afp
+BULK/
+entradas/
+salidas/
